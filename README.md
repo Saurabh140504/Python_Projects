@@ -43,4 +43,29 @@ Learned how to break a program into reusable functions
 Gained confidence in handling structured data
 Strengthened foundation for data analytics projects
 
-Next step will focus on adding budget checking and basic analytics features to make the system more analytical.
+Day 2 Budget Validation and Category Level Analytics
+
+On Day 2, I enhanced the project by adding budget monitoring and basic analytical features. The main focus was to move from only storing data to analyzing the stored expense data.
+
+What I Implemented
+
+Implemented budget checking logic to compare total expense with predefined budget
+Added category wise expense summary using dictionary aggregation
+Filtered high value expenses using lambda and filter
+Extracted unique categories using set
+
+Key Concepts Practiced
+
+Conditional statements for budget validation
+Dictionary based aggregation logic
+Functional programming using lambda and filter
+Set data structure for unique value extraction
+
+Learning Outcomes
+
+Understood how to analyze expense data category wise
+Learned how to apply business logic like budget tracking
+Improved analytical thinking using real expense scenarios
+Strengthened problem solving skills for data analytics role
+
+Next step will focus on adding date based analysis and generating a final summary report.
